@@ -6,6 +6,7 @@ header {
     background-color: beige;
     text-align: center;
     align-items: flex-end;
+    font-size: 130;
 }
 section {
    color: rgb(226, 14, 190); 
