@@ -4,6 +4,8 @@ body {
 }
 header {
     background-color: beige;
+    text-align: center;
+    align-items: flex-end;
 }
 section {
    color: rgb(80, 226, 226); 
